@@ -1,6 +1,12 @@
-👋 Hi there I'm Sheryl 
+👋 Hi there! I'm Sheryl
 <br />
 ⚛️ I’m currently learning: React 
+<br />
+🤔 I’m interested in many things
+
+
+
+
 <!--
 **SherylLSY/SherylLsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🔭 I’m currently working on React...
+- 🔭 I’m currently working on ...
+- 🎾 Fun fact: tennis 
 -->

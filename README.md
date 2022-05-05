@@ -1,5 +1,5 @@
 Hi there I'm Sheryl 👋
-I’m currently learning: React ⚛️
+#I’m currently learning: React ⚛️
 <!--
 **SherylLSY/SherylLsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
